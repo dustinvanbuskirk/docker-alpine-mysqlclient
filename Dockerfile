@@ -1,2 +1,2 @@
-FROM alpine:3.6.1
+FROM alpine:3.3
 RUN apk add --no-cache mysql-client
